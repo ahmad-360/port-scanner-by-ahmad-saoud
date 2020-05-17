@@ -26,6 +26,14 @@ cd port-scanner-by-ahmad-saoud-master
 python3 port scanner.py
 
 
+
+
+
+
+
+
+
+
 In Windows Follow this step:
 
 first download his tool zip
