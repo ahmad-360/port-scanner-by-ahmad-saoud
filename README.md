@@ -11,7 +11,7 @@ please read this comment
 
 "for tool start correctly type in your terminal 'linux or termux'"
 
-write in your terminal linux this comment:
+# LINUX INSTALLATION:
 
 apt-get update
  
@@ -27,12 +27,7 @@ python3 port scanner.py
 
 
 
-
-
-
-
-
-
+# WINDOWS INSTALLATION:
 
 In Windows Follow this step:
 
